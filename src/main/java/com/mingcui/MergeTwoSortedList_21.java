@@ -1,6 +1,6 @@
 package com.mingcui;
 
-import com.mingcui.models.ListNode;
+import com.mingcui.model.ListNode;
 
 public class MergeTwoSortedList_21 {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {

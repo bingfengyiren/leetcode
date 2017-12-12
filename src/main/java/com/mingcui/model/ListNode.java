@@ -1,4 +1,4 @@
-package com.mingcui.models;
+package com.mingcui.model;
 
 public class ListNode {
     public int val;

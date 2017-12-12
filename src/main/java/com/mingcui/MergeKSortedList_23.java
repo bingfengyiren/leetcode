@@ -1,6 +1,6 @@
 package com.mingcui;
 
-import com.mingcui.models.ListNode;
+import com.mingcui.model.ListNode;
 
 import java.util.Comparator;
 import java.util.PriorityQueue;
