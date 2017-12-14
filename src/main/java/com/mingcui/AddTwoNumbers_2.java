@@ -1,16 +1,13 @@
 package com.mingcui;
 
+import com.mingcui.model.ListNode;
+
 import java.util.List;
 
 /**
  * Created by mingcui on 2017/11/27.
  */
 public class AddTwoNumbers_2 {
-  public static class ListNode {
-    int val;
-    ListNode next;
-    ListNode(int x) { val = x; }
-  }
   public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
     ListNode head = null;
     ListNode num1 = l1;
