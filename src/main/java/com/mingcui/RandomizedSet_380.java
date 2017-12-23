@@ -34,7 +34,7 @@ public class RandomizedSet_380 {
        return true;
     }
 
-    public int getRandom(){
-        return nums.get(R)
-    }
+//    public int getRandom(){
+//        return nums.get(R)
+//    }
 }
